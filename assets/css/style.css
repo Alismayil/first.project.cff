@@ -1,0 +1,130 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp1903767.jpg);
+    background-size: cover;
+    width: 90px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.fa-solid.fa-bars{color: white;
+    margin-left: 1860px;
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+.text_1{
+font-size: 100px;
+color: white;
+margin-left: 700px;
+margin-top: 250px;
+
+}
+.text_m{
+    color: white;
+    font-size: 70px;
+    margin-left: 800px;
+}
+.div_1{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 200px;
+    border: 8px solid red;
+}
+.div_2{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    border: 1px solid rgb(255, 255, 255);
+    height: 30px;
+    width: 150px;
+    padding-left: 17px;
+    padding-top:10px;
+    margin-left: 800px;
+}
+.div_2:hover{
+    background-color: rgb(156, 0, 0);
+    color: white ;
+}
+.image_1{
+    height: 300px;
+    width: 300px;
+}
+.image_2{
+    height: 300px;
+    width: 300px;
+}
+.image_3{
+    height: 300px;
+    width: 300px;
+}
+.div_in{
+    background-color: white;
+    height: 1200px;
+    margin-top: 400px;
+    width: 1906px;
+    margin-left: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.txt_1{
+  
+    width: 300px;
+    display: inline-block;
+
+
+}
+.txt_2{   
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    float: right;
+
+}
+.txt_3{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    float: left;
+}
+.div_in_web{
+    border: 7px solid rgb(255, 255, 255);
+    display: inline-block;
+}
+.span_1{
+        color: rgb(255, 255, 255);
+        text-align: center;
+        color: red;
+}
+.span_2{
+    color: rgb(0, 0, 0); 
+}
+h5{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+.div_in_web_1{
+    border: 6px solid rgb(255, 255, 255);
+    display: inline-block;
+}
+.div_in_web_2{
+    border: 7px solid rgb(255, 255, 255);
+}
+.write_1{
+    font-size: 50px;
+    text-align: center;
+  
+}
+.write_2{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 150px;
+    color: grey;
+}
+.arrow{
+  text-align: center;
+  color: rgb(255, 0, 0);
+}
